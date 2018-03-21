@@ -29,6 +29,7 @@
     width: 165px;
     margin: 0 auto 15px auto;
     transition: background-color .2s ease-out;
+    overflow: auto;
 
 }
 .todoListMain .theList li:hover {
